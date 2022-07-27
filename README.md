@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dynjm!
 - 👀 I’m interested in software engineering and data engineering.
-- 🌱 I’m currently learning artificial intelligence, data science, and software engineering.
+- 🌱 I’m currently learning data science and software engineering.
 
 
 <!---
